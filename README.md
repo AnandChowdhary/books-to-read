@@ -1,2 +1,54 @@
-# books-to-read
-List of books I want to read
+# Books
+This is just a list of books I want to read.
+
+GitHub because I can version-control this markdown file.
+
+- Sprint by Jake, Zeratsky, John, Kowitz, Braden Knapp
+- Hooked by Nir Eyal
+- The Hard Thing About Hard Things by Ben Horowitz
+- The Effective Executive by Peter F. Drucker
+- Lean Analytics by Alistair Croll, Benjamin Yoskovitz
+- Crush It! by Gary Vaynerchuk
+- Abundance by Peter H. Diamandis, Steven Kotler
+- The Innovator's Dilemma by Clayton M. Christensen
+- Shoe Dog by Phil Knight
+- Ego Is the Enemy by Ryan Holiday
+- Creativity, Inc. by Ed Catmull, Amy Wallace
+- Hacking Growth by Sean Ellis, Morgan Brown
+- Business Adventures by John Brooks
+- Elon Musk by Ashlee Vance
+- The Outsiders by William N. Thorndike
+- Startup Rising by Christopher M. Schroeder
+- Peak by Chip Conley
+- The Leadership Challenge by James M. Kouzes, Barry Z. Posner
+- Steve Jobs by Walter Isaacson
+- The Design of Everyday Things by Donald A. Norman
+- The Four Steps to the Epiphany by Steve Blank
+- The Lean Product Playbook by Dan Olsen
+- High Output Management by Andrew S. Grove
+- Zero to One by Peter Thiel Blake Masters
+- Essentialism by Greg McKeown
+- Built to Last by Jim Collins, Jerry I. Porras
+- Tribal Leadership by Dave Logan, John King, Halee Fischer-Wright
+- The Score Takes Care of Itself by Bill Walsh, Steve Jamison, Craig Walsh
+- Sam Walton by Sam Walton
+- Don't Make Me Think, Revisited by Steve Krug
+- Turn the Ship Around! by L. David Marquet
+- The Lean Startup by Eric Ries
+- Getting Things Done by David Allen
+- Traction by Gabriel Weinberg
+- Deep Work by Cal Newport
+- The Goal by Eliyahu M. Goldratt, Jeff Cox
+- Outliers by Malcolm Gladwell
+- Only the Paranoid Survive by Andrew S. Grove
+- The $100 Startup by Chris Guillebeau
+- Rework by Jason Fried, David Heinemeier Hansson
+- Talking to Humans by Giff Constable
+- Tools of Titans by Timothy Ferriss
+- The Coaching Habit by Michael Bungay Stanier
+- Smartcuts by Shane Snow
+- The New One Minute Manager by Blanchard, Ken, Johnson, Spencer
+- Growth Hacker Marketing by Ryan Holiday
+- Venture Deals by Brad Feld, Jason Mendelson
+- The Halo Effect by Phil Rosenzweig
+- By Gary Keller The One Thing by Gary Keller, Jay Papasan
