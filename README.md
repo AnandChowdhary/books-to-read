@@ -21,17 +21,17 @@ GitHub because I can version-control this markdown file.
 - Startup Rising by Christopher M. Schroeder
 - Peak by Chip Conley
 - The Leadership Challenge by James M. Kouzes, Barry Z. Posner
-- Steve Jobs by Walter Isaacson
-- The Design of Everyday Things by Donald A. Norman
+- ~~Steve Jobs by Walter Isaacson~~
+- ~~The Design of Everyday Things by Donald A. Norman~~
 - The Four Steps to the Epiphany by Steve Blank
 - The Lean Product Playbook by Dan Olsen
 - High Output Management by Andrew S. Grove
-- Zero to One by Peter Thiel Blake Masters
+- ~~Zero to One by Peter Thiel Blake Masters~~
 - Essentialism by Greg McKeown
 - Built to Last by Jim Collins, Jerry I. Porras
 - Tribal Leadership by Dave Logan, John King, Halee Fischer-Wright
 - The Score Takes Care of Itself by Bill Walsh, Steve Jamison, Craig Walsh
-- Sam Walton by Sam Walton
+- ~~Sam Walton by Sam Walton~~
 - Don't Make Me Think, Revisited by Steve Krug
 - Turn the Ship Around! by L. David Marquet
 - The Lean Startup by Eric Ries
@@ -51,4 +51,4 @@ GitHub because I can version-control this markdown file.
 - Growth Hacker Marketing by Ryan Holiday
 - Venture Deals by Brad Feld, Jason Mendelson
 - The Halo Effect by Phil Rosenzweig
-- By Gary Keller The One Thing by Gary Keller, Jay Papasan
+- The ONE Thing by Gary Keller, Jay Papasan
