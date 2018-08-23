@@ -5,7 +5,7 @@ GitHub because I can version-control this markdown file.
 
 - Sprint by Jake, Zeratsky, John, Kowitz, Braden Knapp
 - Hooked by Nir Eyal
-- The Hard Thing About Hard Things by Ben Horowitz
+- ~~The Hard Thing About Hard Things by Ben Horowitz~~
 - The Effective Executive by Peter F. Drucker
 - Lean Analytics by Alistair Croll, Benjamin Yoskovitz
 - Crush It! by Gary Vaynerchuk
@@ -13,7 +13,7 @@ GitHub because I can version-control this markdown file.
 - The Innovator's Dilemma by Clayton M. Christensen
 - Shoe Dog by Phil Knight
 - Ego Is the Enemy by Ryan Holiday
-- Creativity, Inc. by Ed Catmull, Amy Wallace
+- ~~Creativity, Inc. by Ed Catmull, Amy Wallace~~
 - Hacking Growth by Sean Ellis, Morgan Brown
 - Business Adventures by John Brooks
 - Elon Musk by Ashlee Vance
@@ -52,3 +52,4 @@ GitHub because I can version-control this markdown file.
 - Venture Deals by Brad Feld, Jason Mendelson
 - The Halo Effect by Phil Rosenzweig
 - The ONE Thing by Gary Keller, Jay Papasan
+- ~~The Subtle Art of Not Giving a F\*ck by Mark Manson~~
