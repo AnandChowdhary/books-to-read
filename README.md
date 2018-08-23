@@ -3,7 +3,7 @@ This is just a list of books I want to read.
 
 GitHub because I can version-control this markdown file.
 
-- Sprint by Jake, Zeratsky, John, Kowitz, Braden Knapp
+- Sprint by Jake Knapp
 - Hooked by Nir Eyal
 - ~~The Hard Thing About Hard Things by Ben Horowitz~~
 - The Effective Executive by Peter F. Drucker
